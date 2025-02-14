@@ -3,6 +3,9 @@ We are all about the ham radio here, which offers the most flexibility of all on
 
 You may also be interested in other options.
 
+## Unlicensed
+https://en.wikipedia.org/wiki/LTE_in_unlicensed_spectrum
+
 ## CBRS
 Mostly license-free for low power. Probably the easiest way to come to grips with LTE stuff.
 
