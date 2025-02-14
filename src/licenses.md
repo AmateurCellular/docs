@@ -35,3 +35,8 @@ https://librecellular.org/user/spectrum
 ## Amateur
 Band 40 should work nicely.
 https://lovdata.no/dokument/SF/forskrift/2009-11-05-1340
+
+# ES
+## Amateur
+Band 40 will work:
+https://www.fediea.org/hamradio/inspain/qrg.php?lang=en
