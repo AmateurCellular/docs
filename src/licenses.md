@@ -1,3 +1,5 @@
+# US
+
 ## Amateur
 We are all about the ham radio here, which offers the most flexibility of all on certain axes.
 
@@ -20,3 +22,16 @@ nice metal box, you may be able to test without a license. This is often fairly 
 
 ## non-RF
 srsran supports zmq, meaning it simulates the RF side and does not actually require hardware at all.
+
+# UK
+
+## Amateur
+Looks like Band 40 might work here:
+https://www.hflink.com/bandplans/UK_bandplan.pdf
+## Shared Access licensing
+https://librecellular.org/user/spectrum
+
+# NO
+## Amateur
+Band 40 should work nicely.
+https://lovdata.no/dokument/SF/forskrift/2009-11-05-1340
