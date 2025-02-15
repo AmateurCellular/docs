@@ -15,6 +15,8 @@ This is a work in progress, keep us in mind.
 ## Why
 See [rationale.md](./rationale.md)  in this directory. It's short!
 
+You may also have some strong opinions against this project. I might be able to address them in [concerns.md](concerns.md).
+
 ## How
 
 There are several concerns.
