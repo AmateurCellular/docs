@@ -13,7 +13,7 @@ CBRS rules if the current state changes.
 
 With carrier aggregation, it *might* be possible to hack together
 spectrum from all over the space, which might make portions of band 8
-(900MHz) usable, or possibly other bands. 
+(900MHz) usable, or possibly other bands such as the uplink portion of band 30.
 We haven't fully mapped the overlap between privileges and bands in this context.
 
 
