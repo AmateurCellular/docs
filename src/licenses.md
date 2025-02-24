@@ -5,7 +5,7 @@ We are all about the ham radio here, which offers the most flexibility of all on
 
 Band 40 is the best bet. 
 
-The lower 50MHz of band 42 (already CBRS) also
+The lower 50MHz of legacy LTE band 42 also
 appears to be usable under part 97 per footnote
 [US103](https://www.law.cornell.edu/cfr/text/47/2.106). This may not
 last for long, but deployments under ham privileges could convert to
@@ -14,6 +14,7 @@ CBRS rules if the current state changes.
 With carrier aggregation, it *might* be possible to hack together
 spectrum from all over the space, which might make portions of band 8
 (900MHz) usable, or possibly other bands such as the uplink portion of band 30.
+
 We haven't fully mapped the overlap between privileges and bands in this context.
 
 
@@ -33,8 +34,13 @@ US hams generally have the ability to use at least some portion of common
 unlicensed spectrum under part 97 rules, so this may offer some support
 off the shelf while freeing us from part 15 or ISM constraints.
 
+Finding UE with support for these bands can be very difficult.
+
 ## CBRS
-Mostly license-free. Probably the easiest way to come to grips with LTE stuff.
+Mostly license-free, but not literally so. CBRS is probably the easiest
+way to come to grips with LTE stuff but requires use of a SAS, and
+many useful deployments would require installation by a certified
+installed. Certification costs ~$600.
 
 ## STA
 Not really a license, but a permission slip. This may be one way to get
@@ -43,7 +49,7 @@ your area. We should search to find existing applications.
 
 ## Lab
 With everything turned to low power and through attenuators, or in a
-nice metal box, you may be able to test without a license. This is often fairly hard to do well.
+nice metal box, you may be able to test without a license.
 
 ## non-RF
 srsran supports zmq, meaning it simulates the RF side and does not actually require hardware at all.
