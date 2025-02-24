@@ -114,6 +114,7 @@ https://docs.ellanetworks.com/
 https://ryantheelder.github.io/blog/2023/OTA/
 ```
 
+```
 Note: Three-digit MNCs are incompatible with srsEPC.
 Needed to patch openairinterface5g/radio/LMSSDR/lms_lib.cpp to get rid of the write_output declaration (which is not used) to get openair5g to compile enb
 eMBMS: https://discord.com/channels/1339827062499835904/1339827062499835910/1341495663162167419
@@ -123,4 +124,4 @@ USRP N210 [not supported for LTE](https://ttuxl.github.io/report/weekly_report7.
 
 Make a [UE re-register via AMF](https://discord.com/channels/463334787537567775/463334788044947457/1341712583362609204)
 
-
+```
